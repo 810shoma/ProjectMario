@@ -1,14 +1,9 @@
-﻿2019/06/13 14:55:35 にビルドを開始しました。
-     1>ノード 2 上のプロジェクト "C:\Users\shoma\Desktop\リポジトリ\SuperMarioBros\SuperMarioBros\SuperMarioBros.vcxproj" (Build ターゲット)。
-     1>ClCompile:
-         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"C:\DxLib_VC\プロジェクトに追加すべきファイル_VC用" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt SuperMarioBros.cpp
-         SuperMarioBros.cpp
-       Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\shoma\Desktop\リポジトリ\SuperMarioBros\SuperMarioBros\Debug\SuperMarioBros.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\DxLib_VC\プロジェクトに追加すべきファイル_VC用" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\shoma\Desktop\リポジトリ\SuperMarioBros\SuperMarioBros\Debug\SuperMarioBros.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\shoma\Desktop\リポジトリ\SuperMarioBros\SuperMarioBros\Debug\SuperMarioBros.lib" /MACHINE:X86 /SAFESEH:NO Debug\SuperMarioBros.obj
-            ライブラリ C:\Users\shoma\Desktop\リポジトリ\SuperMarioBros\SuperMarioBros\Debug\SuperMarioBros.lib とオブジェクト C:\Users\shoma\Desktop\リポジトリ\SuperMarioBros\SuperMarioBros\Debug\SuperMarioBros.exp を作成中
-         SuperMarioBros.vcxproj -> C:\Users\shoma\Desktop\リポジトリ\SuperMarioBros\SuperMarioBros\Debug\SuperMarioBros.exe
-     1>プロジェクト "C:\Users\shoma\Desktop\リポジトリ\SuperMarioBros\SuperMarioBros\SuperMarioBros.vcxproj" (Build ターゲット) のビルドが完了しました。
+﻿2019/07/09 14:23:17 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\Users\shoma\Desktop\リポジトリ\SuperMarioBros\SuperMarioBros\SuperMarioBros.vcxproj" (Rebuild ターゲット)。
+       プロジェクト ファイルに ToolsVersion="15.0" が含まれています。このツールセットが不明であるか、存在しない可能性があります。その場合は、適切なバージョンの MSBuild をインストールして解決するか、ビルドがポリシー上の理由により特定の ToolsVersion を使用するよう強制されている可能性があります。プロジェクトを ToolsVersion="4.0" として扱います。詳細については、http://go.microsoft.com/fwlink/?LinkId=291333 を参照してください。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.Cpp.Platform.targets(44,5): error MSB8020: The builds tools for v141 (Platform Toolset = 'v141') cannot be found. To build using the v141 build tools, either click the Project menu or right-click the solution, and then select "Update VC++ Projects...". Install v141 to build using the v141 build tools.
+     1>プロジェクト "C:\Users\shoma\Desktop\リポジトリ\SuperMarioBros\SuperMarioBros\SuperMarioBros.vcxproj" (Rebuild ターゲット) のビルドが終了しました -- 失敗。
 
-ビルドに成功しました。
+ビルドに失敗しました。
 
-経過時間 00:00:01.74
+経過時間 00:00:00.12
